@@ -1,0 +1,7 @@
+Database schema brainstorming:
+
+Need tables to:
+1) Store username and password
+2) Store messages
+3) Store posts
+...
